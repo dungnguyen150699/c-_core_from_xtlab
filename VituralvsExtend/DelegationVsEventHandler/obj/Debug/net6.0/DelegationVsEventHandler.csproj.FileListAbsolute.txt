@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C#\VituralvsExtend\DelegationVsEventHandler\obj\Debug\net6.0\DelegationVsEventHandler.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\VituralvsExtend\DelegationVsEventHandler\obj\Debug\net6.0\DelegationVsEventHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\VituralvsExtend\DelegationVsEventHandler\obj\Debug\net6.0\DelegationVsEventHandler.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\VituralvsExtend\DelegationVsEventHandler\obj\Debug\net6.0\DelegationVsEventHandler.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\VituralvsExtend\DelegationVsEventHandler\obj\Debug\net6.0\DelegationVsEventHandler.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\VituralvsExtend\DelegationVsEventHandler\bin\Debug\net6.0\DelegationVsEventHandler.exe
+C:\Users\Admin\Desktop\C#\VituralvsExtend\DelegationVsEventHandler\bin\Debug\net6.0\DelegationVsEventHandler.deps.json
+C:\Users\Admin\Desktop\C#\VituralvsExtend\DelegationVsEventHandler\bin\Debug\net6.0\DelegationVsEventHandler.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\VituralvsExtend\DelegationVsEventHandler\bin\Debug\net6.0\DelegationVsEventHandler.dll
+C:\Users\Admin\Desktop\C#\VituralvsExtend\DelegationVsEventHandler\bin\Debug\net6.0\DelegationVsEventHandler.pdb
+C:\Users\Admin\Desktop\C#\VituralvsExtend\DelegationVsEventHandler\obj\Debug\net6.0\DelegationVsEventHandler.dll
+C:\Users\Admin\Desktop\C#\VituralvsExtend\DelegationVsEventHandler\obj\Debug\net6.0\refint\DelegationVsEventHandler.dll
+C:\Users\Admin\Desktop\C#\VituralvsExtend\DelegationVsEventHandler\obj\Debug\net6.0\DelegationVsEventHandler.pdb
+C:\Users\Admin\Desktop\C#\VituralvsExtend\DelegationVsEventHandler\obj\Debug\net6.0\DelegationVsEventHandler.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\VituralvsExtend\DelegationVsEventHandler\obj\Debug\net6.0\ref\DelegationVsEventHandler.dll

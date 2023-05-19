@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C#\FileBasic\obj\Debug\net6.0\FileBasic.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\FileBasic\obj\Debug\net6.0\FileBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\FileBasic\obj\Debug\net6.0\FileBasic.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\FileBasic\obj\Debug\net6.0\FileBasic.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\FileBasic\obj\Debug\net6.0\FileBasic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\FileBasic\bin\Debug\net6.0\FileBasic.exe
+C:\Users\Admin\Desktop\C#\FileBasic\bin\Debug\net6.0\FileBasic.deps.json
+C:\Users\Admin\Desktop\C#\FileBasic\bin\Debug\net6.0\FileBasic.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\FileBasic\bin\Debug\net6.0\FileBasic.dll
+C:\Users\Admin\Desktop\C#\FileBasic\bin\Debug\net6.0\FileBasic.pdb
+C:\Users\Admin\Desktop\C#\FileBasic\obj\Debug\net6.0\FileBasic.dll
+C:\Users\Admin\Desktop\C#\FileBasic\obj\Debug\net6.0\refint\FileBasic.dll
+C:\Users\Admin\Desktop\C#\FileBasic\obj\Debug\net6.0\FileBasic.pdb
+C:\Users\Admin\Desktop\C#\FileBasic\obj\Debug\net6.0\FileBasic.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\FileBasic\obj\Debug\net6.0\ref\FileBasic.dll

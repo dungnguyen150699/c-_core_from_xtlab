@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C#\SolutionConsoleApp1\ConsoleApp2\bin\Debug\net6.0\MathApp.exe
+C:\Users\Admin\Desktop\C#\SolutionConsoleApp1\ConsoleApp2\bin\Debug\net6.0\MathApp.deps.json
+C:\Users\Admin\Desktop\C#\SolutionConsoleApp1\ConsoleApp2\bin\Debug\net6.0\MathApp.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\SolutionConsoleApp1\ConsoleApp2\bin\Debug\net6.0\MathApp.dll
+C:\Users\Admin\Desktop\C#\SolutionConsoleApp1\ConsoleApp2\bin\Debug\net6.0\MathApp.pdb
+C:\Users\Admin\Desktop\C#\SolutionConsoleApp1\ConsoleApp2\obj\Debug\net6.0\MathApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\SolutionConsoleApp1\ConsoleApp2\obj\Debug\net6.0\MathApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\SolutionConsoleApp1\ConsoleApp2\obj\Debug\net6.0\MathApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\SolutionConsoleApp1\ConsoleApp2\obj\Debug\net6.0\MathApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\SolutionConsoleApp1\ConsoleApp2\obj\Debug\net6.0\MathApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\SolutionConsoleApp1\ConsoleApp2\obj\Debug\net6.0\MathApp.dll
+C:\Users\Admin\Desktop\C#\SolutionConsoleApp1\ConsoleApp2\obj\Debug\net6.0\refint\MathApp.dll
+C:\Users\Admin\Desktop\C#\SolutionConsoleApp1\ConsoleApp2\obj\Debug\net6.0\MathApp.pdb
+C:\Users\Admin\Desktop\C#\SolutionConsoleApp1\ConsoleApp2\obj\Debug\net6.0\MathApp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\SolutionConsoleApp1\ConsoleApp2\obj\Debug\net6.0\ref\MathApp.dll
